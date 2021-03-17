@@ -1,3 +1,3 @@
-# Hola-mundo uwu skere
+# Hola-mundo uwu
 Nuestra primera pagina
 
